@@ -7,7 +7,21 @@
  https://qualidade.apprbs.com.br/site
  
  ### Escopo
-
+ - Página Principal
+	 - Links de Redirecionamento
+		 - Nosso Diferenciais
+		 - Eventos
+		 - Depoimentos
+	
+	 - Botão falar com consultor
+	 -  Carrossel informativo
+		 - Botões que estão nos banners
+	 - Eventos
+        - Botão "Inscreva-se Agora"
+	 - Forms "Não Fique de Fora!"
+		 - Preencher campos: Nome, Email e Telefone
+	 -	Botões de redirecionamento para as rede social.
+	 -	Dados da Faculdade no rodapé
  - Página Certificação 
 	 - Botões
 		 - Saiba mais (Parte Superior da página e seção Outros cursos)
@@ -16,20 +30,7 @@
 	
 	 - Botões de redirecionamento para as rede social
 	 - Preenchimento do formulário "Inscreva-se Agora!"
- - Página Principal
-	 - Links de Redirecionamento
-		 - Nosso Diferenciais
-		 - Eventos
-		 - Depoimentos
-	
-	 - Botão falar com consultor
-	 -  Carrosel de informativo
-		 - Botões que estão nos banners
-	 - Botão "Inscreva-se Agora"
-	 - Forms "Não Fique de Fora!"
-		 - Preencher campos: Nome, Email e Telefone
-	 -	Botões de redirecionamento para as rede social.
-	 -	Dados da Faculdade no rodapé
+
  
 #### Estratégia 
  - Teste exploratório
