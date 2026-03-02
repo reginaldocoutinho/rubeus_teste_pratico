@@ -3,7 +3,7 @@
 ## Plano de Teste
 
  ### Objetivo 
- Este plano de teste tem como objetivo definir os passos que seram seguidos para validação das funcionalidades das páginas da Faculdade Exemplo: https://qualidade.apprbs.com.br/certificacao	
+ Este plano de teste tem como objetivo definir os passos que serão seguidos para validação das funcionalidades das páginas da Faculdade Exemplo: https://qualidade.apprbs.com.br/certificacao	
  https://qualidade.apprbs.com.br/site
  
  ### Escopo
